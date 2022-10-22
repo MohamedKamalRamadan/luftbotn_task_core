@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "09c+eDgV3jBV/VPHJHiRMF5Nn9a87mJceeTNLcsX1R2n4ySB2MFX8cciIQC/4Ks8KjLt4d24zLJBXEPwdxkB5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohamed.ramadan\\source\\repos\\Inv_Task\\Inv_Task.Core\\Inv_Task.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed.ramadan\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed.ramadan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\bin\Release\net6.0\Inv_Task.Core.deps.json
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\bin\Release\net6.0\Inv_Task.Core.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\bin\Release\net6.0\Inv_Task.Core.pdb
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.csproj.AssemblyReference.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.AssemblyInfoInputs.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.AssemblyInfo.cs
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\refint\Inv_Task.Core.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\Inv_Task.Core.pdb
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.Core\obj\Release\net6.0\ref\Inv_Task.Core.dll
