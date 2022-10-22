@@ -1,0 +1,17 @@
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.EF.deps.json
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.EF.runtimeconfig.json
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.EF.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.EF.pdb
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.Core.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\bin\Release\net6.0\Inv_Task.Core.pdb
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.csproj.AssemblyReference.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.AssemblyInfoInputs.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.AssemblyInfo.cs
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.csproj.CopyComplete
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\refint\Inv_Task.EF.dll
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.pdb
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\Inv_Task.EF.genruntimeconfig.cache
+C:\Users\mohamed.ramadan\source\repos\Inv_Task\Inv_Task.EF\obj\Release\net6.0\ref\Inv_Task.EF.dll
